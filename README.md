@@ -6,7 +6,7 @@ This project is the back end for an e-commerce website, providing a robust and s
 
 ## Walkthrough Video
 
-[![Walkthrough Video](https://drive.google.com/file/d/12LQ_52pKRd4FQ-fzzgfiEOOCjjzwlbAF/view)
+
 
 
 [Link to Walkthrough Video](https://drive.google.com/file/d/12LQ_52pKRd4FQ-fzzgfiEOOCjjzwlbAF/view)
