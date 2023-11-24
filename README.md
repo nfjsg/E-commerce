@@ -6,9 +6,10 @@ This project is the back end for an e-commerce website, providing a robust and s
 
 ## Walkthrough Video
 
-[![Walkthrough Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Walkthrough Video](https://drive.google.com/file/d/12LQ_52pKRd4FQ-fzzgfiEOOCjjzwlbAF/view)
 
-[Link to Walkthrough Video](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+[Link to Walkthrough Video](https://drive.google.com/file/d/12LQ_52pKRd4FQ-fzzgfiEOOCjjzwlbAF/view)
 
 The walkthrough video demonstrates the functionality of the e-commerce back end, including schema creation, database seeding, and API route testing.
 
